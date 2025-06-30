@@ -36,3 +36,25 @@ Perfect for learning how to work with pandas, matplotlib, and command-line tools
 - Produces data analysis	Mimics business intelligence reports
 - Shows charts	Helps visualize data for stakeholders or team leads
 - Error handling (file not found)	Prevents crashes; makes your tool reliable
+
+
+##Screenshots
+**Main Menu:**
+
+![Main Menu Screenshot](screenshots/Main menu.png)
+
+**Pie Chart Example:**
+
+![Pie Chart](screenshots/PieChart.png)
+
+**Line Graph Example:**
+
+![Line Graph](screenshots/LineGraph.png)
+
+
+**BAR Graph Example:**
+
+![Bar Graph](screenshots/BarGraph.png)
+
+
+
